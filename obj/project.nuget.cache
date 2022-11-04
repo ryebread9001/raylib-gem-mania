@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfPCCjyBMuaeNceXkMP4MUxCw1XmpcpbdAd9vNV4Rqs5sS0uqnbiX7MAnPqJW+JrgDS/jUonZbZVzRaIg8e53Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amnig\\AppData\\Local\\Programs\\Microsoft VS Code\\raylib-project\\raylib-gem-mania\\raylib-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amnig\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\amnig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
